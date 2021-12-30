@@ -166,7 +166,7 @@ Start the server
 ## Authors
 
 - [Dhaffa Abdillah Hakim](https://www.github.com/dhaffaabdillah)
-- [Ekky Mulia Lasardi](https://www.github.com/)
-- [Pancaran Ratna Mustika](https://www.github.com/)
-- [Jasmine Ramadhifa](https://www.github.com/)
-- [Ilham Prayogo Sampurno](https://www.github.com/)
+- [Ekky Mulia Lasardi](https://www.github.com/ekkymulia)
+- [Pancaran Ratna Mustika](https://www.github.com/hyprll)
+- [Jasmine Ramadhifa](https://www.github.com/jasminedhf)
+- [Ilham Prayogo Sampurno](https://www.github.com/ilgo123)
