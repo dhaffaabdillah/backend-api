@@ -32,7 +32,7 @@ app.use(errorMiddleware);
 
 // starting the server
 app.listen(port, () =>
-    console.log(`🚀 Server running on port ${port}!`));
+    console.log(`Serverna geus jalan di 127.0.0.1:${port}  >_<`));
 
 
 module.exports = app;
